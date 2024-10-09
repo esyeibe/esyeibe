@@ -13,6 +13,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=esyeibe&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esyeibe&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/esyeibe/esyeibe/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=esyeibe&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
 
