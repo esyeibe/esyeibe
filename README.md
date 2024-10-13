@@ -2,7 +2,7 @@
 
 ## About Me
   <p style="font-size:18px;">
-  Hello, I'm <a>Syibran Malawi<>, an aspiring front-end web developer. I've been learning about programming since 2020, focusing primarily on web development. I have a deep passion for front-end design and am constantly striving to improve my skills, with the hope of growing and evolving in this exciting field.
+  Hello, I'm Syibran Malawi, an aspiring front-end web developer. I've been learning about programming since 2020, focusing primarily on web development. I have a deep passion for front-end design and am constantly striving to improve my skills, with the hope of growing and evolving in this exciting field.
   </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syiesyeibe._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syibran-malawi) <img src="https://komarev.com/ghpvc/?username=esyeibe&label=Profile%20views&color=0e75b6&style=flat" alt="esyeibe" /> 
